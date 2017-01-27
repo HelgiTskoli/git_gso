@@ -1,14 +1,17 @@
 Inngangur
 Í þessari ritun mun ég fjalla um allskonar hluti tengdum gögnum og gagnasöfnum/kerfum og mínar skoðanir á þeim. Þetta er skrifað sem fyrsta skilaverkefnið í GSÖ1TÖ05AU/Notkun Gagnasafna
 
-Gögn
+1.Gögn
 Gögn eru hlutir sem eru geymdir á allskonar máta, oft í söfnum eins og bókasöfnum eða öðrum gagnasöfnum sem geta verið rafræn. Þú sást líklega ef þú ert að lesa textann að ég skrifaði bókasafn. Já gögn eru ekki bara rafræn heldur eru gögn líka hlutir eins og pappírar og bækur. Eins er flest allt sem þú geymir á tölvunni þinni talið sem gögn.
 
-Gafnasöfn
+2.Gafnasöfn
 Gagnasöfn eru geymslustaðir fyrir allskonar gögn að öllum gerðum. Dæmi að gagnasöfnum eru t.d. Bókasöfn, Geymslur fyrir gömul tímarit/fréttablöð, eða stafrænar geymslur hjá söluvefjum, samfélagsmiðlum eða hverju sem er öðru. Ég tel líka Meme safnið mitt (hvað meme er: https://en.wikipedia.org/wiki/Internet_meme eða https://en.wikipedia.org/wiki/Image_macro) sem gagnasafn þar sem það er að geyma gögnin sem eru meme-in mín og eru aðgenginleg í gegnum FTP server.
 
-Gafnasafnskerfi
+3.Gafnasafnskerfi
 Gagnasafnskerfi er forritið sem heldur utan um gagnasafnið og hefur yfirsýn yfir allt
 sem er geymt þar. Dæmi um gagnasafnskerfi er MySQL. Oft er notað phpMyAdmin 
 til að vinna með það í tengingu með php. Önnur gagnasafnskerfi eru: SQLite, Oracle,
 MongoDB, DB2, Microsoft Access, Cassandra og margt margt fleira.
+
+4.Færsla
+Færslur er þegar verið er að færa upplýsingar á milli staðsetninga. Dæmi um færslur eru öll e-mail, FTP flutningar, að flytja gögn á milli skráa 
