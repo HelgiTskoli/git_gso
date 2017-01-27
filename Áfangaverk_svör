@@ -14,4 +14,4 @@ til að vinna með það í tengingu með php. Önnur gagnasafnskerfi eru: SQLit
 MongoDB, DB2, Microsoft Access, Cassandra og margt margt fleira.
 
 4.Færsla
-Færslur er þegar verið er að færa upplýsingar á milli staðsetninga. Dæmi um færslur eru öll e-mail, FTP flutningar, að flytja gögn á milli skráa 
+Færslur er þegar verið er að færa upplýsingar á milli staðsetninga. Dæmi um færslur eru öll e-mail, FTP flutningar, að flytja gögn á milli skráa á sömu tölvu er meira að segja talið sem færsla. Ekki rugla þessu við orðið „Útfærsla“ samt þar sem það orð þíðir allt allt annað.
