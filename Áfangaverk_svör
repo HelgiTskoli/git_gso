@@ -17,4 +17,11 @@ MongoDB, DB2, Microsoft Access, Cassandra og margt margt fleira.
 Færslur er þegar verið er að færa upplýsingar á milli staðsetninga. Dæmi um færslur eru öll e-mail, FTP flutningar, að flytja gögn á milli skráa á sömu tölvu er meira að segja talið sem færsla. Ekki rugla þessu við orðið „Útfærsla“ samt þar sem það orð þíðir allt allt annað.
 
 5.Skrá
-Skrá er orð sem er oftast notað yfir möppur. Möppur eru einfaldlega samansafn gagna á einum stað undir einu nafni eins bara eins og venjulegar, snertanlegar möppur virka. Þetta er líka oft kallað „Directory“ en einfaldara er að útskýra þetta með orðinu mappa þar sem „Directory“ þýðir einfaldlega „Skrá“.  
+Skrá er orð sem er oftast notað yfir möppur. Möppur eru einfaldlega samansafn gagna á einum stað undir einu nafni eins bara eins og venjulegar, snertanlegar möppur virka. Þetta er líka oft kallað „Directory“ en einfaldara er að útskýra þetta með orðinu mappa þar sem „Directory“ þýðir einfaldlega „Skrá“. 
+
+6.Skráarsnið
+Skráarsnið er byggingin á hvering gögn eru geymd og hönnuð fyrir mismunandi
+gerðir af gögnum eins og .jpg og .png eru snið hannað fyrir myndir en t.d. .txt, docx, 
+eru gerðir yfir texta gögn og .tff er snið fyrir fonta. Það eru of mikið af sniðum til í
+heiminum til að skrifa það niður.
+
