@@ -6,3 +6,9 @@ Gögn eru hlutir sem eru geymdir á allskonar máta, oft í söfnum eins og bók
 
 Gafnasöfn
 Gagnasöfn eru geymslustaðir fyrir allskonar gögn að öllum gerðum. Dæmi að gagnasöfnum eru t.d. Bókasöfn, Geymslur fyrir gömul tímarit/fréttablöð, eða stafrænar geymslur hjá söluvefjum, samfélagsmiðlum eða hverju sem er öðru. Ég tel líka Meme safnið mitt (hvað meme er: https://en.wikipedia.org/wiki/Internet_meme eða https://en.wikipedia.org/wiki/Image_macro) sem gagnasafn þar sem það er að geyma gögnin sem eru meme-in mín og eru aðgenginleg í gegnum FTP server.
+
+Gafnasafnskerfi
+Gagnasafnskerfi er forritið sem heldur utan um gagnasafnið og hefur yfirsýn yfir allt
+sem er geymt þar. Dæmi um gagnasafnskerfi er MySQL. Oft er notað phpMyAdmin 
+til að vinna með það í tengingu með php. Önnur gagnasafnskerfi eru: SQLite, Oracle,
+MongoDB, DB2, Microsoft Access, Cassandra og margt margt fleira.
